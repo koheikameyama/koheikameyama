@@ -91,7 +91,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 - **フルスタック開発**（DB 設計〜フロント・バックエンド〜インフラ構築まで一貫対応）
 - **プラットフォーム基盤設計**（再利用可能な共通基盤を構築し、複数サービスへ展開）
 - **少人数体制での高速開発**（2-3 人体制で複数の SaaS/AI サービスを立ち上げ）
-- **AWS 基盤構築経験**（7 年以上、Lambda/ECS/DynamoDB/OpenSearch 等）
+- **AWS 基盤構築経験**（7 年以上、Lambda/EC2/DynamoDB/OpenSearch 等）
 
 ---
 
@@ -118,7 +118,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 
 ### 使用技術
 
-- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, ECS, S3）
+- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, EC2, S3）
 - Firebase（Authentication, Hosting, Functions）
 - OpenAI API / 生成 AI 関連技術
 
@@ -129,7 +129,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 - 回答・感情データのスコアリングロジック構築
 - 店舗改善アクション自動生成 AI（レコメンドエンジン）の実装
 - 管理画面（ハピカンダッシュボード）UI/UX 設計
-- AWS 基盤構築（DynamoDB / Lambda / ECS 等）
+- AWS 基盤構築（DynamoDB / Lambda / EC2 等）
 - データ解析基盤構築、モデル精度改善
 
 ### 成果
@@ -148,7 +148,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 
 ### 使用技術
 
-- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, ECS, S3）
+- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, EC2, S3）
 - Firebase（Authentication, Hosting, Functions）
 - OpenAI API / 生成 AI 関連技術
 
@@ -180,7 +180,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 
 ### 使用技術
 
-- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, ECS, S3）
+- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, EC2, S3）
 - Firebase（Authentication, Hosting, Functions）
 - OpenAI API / 生成 AI 関連技術
 
@@ -214,7 +214,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 
 ### 使用技術
 
-- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, ECS, S3）
+- Angular.js / Node.js / TypeScript / DynamoDB / AWS（Lambda, EC2, S3）
 - OpenAI API / 生成 AI 関連技術
 
 ### 担当業務
@@ -457,7 +457,7 @@ DB 設計〜フロント〜バックエンド〜インフラまで一貫して�
 
 少人数チームでリードエンジニアとして技術的意思決定を行い、プロジェクトを成功に導いてきました。
 
-- **アーキテクチャ設計**: スケーラブルな AWS 基盤構築（Lambda / ECS / DynamoDB / OpenSearch 等）
+- **アーキテクチャ設計**: スケーラブルな AWS 基盤構築（Lambda / EC2 / DynamoDB / OpenSearch 等）
 - **技術選定**: プロジェクト特性に応じた最適な技術スタック選定（Remotion、WebRTC、Flutter など）
 - **チーム開発**: オフショア連携を含む 2〜3 人体制でのプロジェクト推進
 - **品質担保**: コードレビュー、テスト自動化、CI/CD 構築による品質向上
