@@ -60,7 +60,3 @@ AI × Web 技術を中心としたプロダクト開発に従事するフルス�
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koheikameyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koheikameyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koheikameyama&theme=gruvbox&utcOffset=9)
-
-## 🏆️ Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=koheikameyama&theme=gruvbox)
