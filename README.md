@@ -53,8 +53,14 @@ AI × Web 技術を中心としたプロダクト開発に従事するフルス�
 - 📊 大規模組織向けハピネス可視化システムの改善
 - 🎨 Remotion を使った動画生成技術の研究
 
-6. GitHub 統計（オプション）
+## 📊 Stats
 
-## 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koheikameyama&show_icons=true&theme=radical)
+## 🏆️ Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
