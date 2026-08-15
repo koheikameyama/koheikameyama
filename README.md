@@ -1,23 +1,18 @@
 # Hi, I'm Kohei Kameyama 👋
 
-AI × Web 技術を中心としたプロダクト開発に従事するフルスタックエンジニ
-アです。
-生成 AI システムのリードエンジニアとして、複数の新規サービスを 0→1 で立ち
-上げてきました。
+生成 AI × Web を中心にプロダクト開発をしているフルスタックエンジニアです。
+生成 AI サービスのテックリードとして、複数の新規サービスを 0→1 で立ち上げてきました。
+前職では CTO として SaaS の立ち上げを主導。要件定義〜DB 設計〜フロント・バックエンド〜インフラ構築まで一貫して自走します。
 
-🏢 現在：アルサーガパートナーズ株式会社 リードエンジニア
 📍 東京都
 
-## 🏆 主な実績
+## 🏆 Highlights
 
-- 🎯 **特許技術の実装** -
-  特許第 7763553 号「雑談によるラポール形成技術」の開発
-- 🏢 **大規模システム開発** -
-  トリドール HD 向け 3 万人規模のハピネス可視化システム
-- 🚀 **事業売却** -
-  チャットボット SaaS「Engagebot」の開発（株式会社ジーニーへ M&A）
-- 💡 **複数の AI サービス立ち上げ** -
-  面接 AI、面談 AI、会議支援 AI、広告動画生成 AI など
+- 🎯 **特許技術の実装** - AI 対話領域の特許技術の設計・実装を主導（主開発者として貢献）
+- 🏢 **大規模システム開発** - 大手飲食チェーン向け 数万人規模の AI 分析基盤をテックリードとして構築
+- 🚀 **事業売却** - チャットボット SaaS の技術基盤を構築し、事業売却（M&A）に技術面で貢献
+- 💡 **複数の AI サービス立ち上げ** - 面接 AI、面談 AI、会議支援 AI、広告動画生成 AI など 0→1 多数
+- 📈 **個人開発** - 日本株の相場局面モニター [stock-buddy.net](https://stock-buddy.net) / AI 株式分析 [stock-analyzer.jp](https://stock-analyzer.jp)
 
 ## 🛠️ Tech Stack
 
@@ -40,18 +35,25 @@ AI × Web 技術を中心としたプロダクト開発に従事するフルス�
 ### AI & ML
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
 
 ### Database
 
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+## ✍️ Writing
+
+- 📘 Zenn（技術記事：生成 AI・自動売買・アーキテクチャ）: [zenn.dev/koheikameyama](https://zenn.dev/koheikameyama)
+- 📝 note（エッセイ：リーダーシップ・哲学・キャリア）: [note.com/gifted_hornet696](https://note.com/gifted_hornet696)
 
 ## 🌱 Currently
 
-- 🤖 生成 AI/LLM を活用した業務効率化システムの開発
-- 📊 大規模組織向けハピネス可視化システムの改善
-- 🎨 Remotion を使った動画生成技術の研究
+- 🤖 生成 AI/LLM を活用したプロダクト開発・技術相談
+- 📊 株式・FX の自動売買システムの個人開発（Walk-Forward 検証・戦略評価）
+- 🧑‍🏫 技術メンタリング（アーキテクチャ・LLM 導入の壁打ち）
 
 ## 📊 Stats
 
